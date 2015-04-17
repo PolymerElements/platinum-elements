@@ -1,0 +1,19 @@
+{
+  "name": "service-worker-elements",
+  "version": "0.1.0",
+  "homepage": "https://github.com/PolymerElements/service-worker-elements",
+  "description": "Service Worker elements for Polymer",
+  "main": "service-worker-elements.html",
+  "keywords": [
+    "service",
+    "worker",
+    "service-worker",
+    "push"
+  ],
+  "license": "BSD",
+  "private": true,
+  "dependencies": {
+    "service-worker": "PolymerLabs/service-worker",
+    "push-notification-manager": "PolymerElements/push-notification-manager#0.8-preview"
+  }
+}
