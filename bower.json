@@ -13,7 +13,7 @@
   "license": "BSD",
   "private": true,
   "dependencies": {
-    "service-worker": "PolymerLabs/service-worker",
+    "service-worker": "PolymerElements/service-worker#0.8-preview",
     "push-notification-manager": "PolymerElements/push-notification-manager#0.8-preview"
   }
 }
