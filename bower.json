@@ -1,14 +1,15 @@
 {
-  "name": "service-worker-elements",
+  "name": "platinum-elements",
   "version": "0.1.0",
-  "homepage": "https://github.com/PolymerElements/service-worker-elements",
-  "description": "Service Worker elements for Polymer",
+  "homepage": "https://github.com/PolymerElements/platinum-elements",
+  "description": "Elements to turn your web page into a true webapp, with push, offline, and more.",
   "main": "service-worker-elements.html",
   "keywords": [
     "service",
     "worker",
     "service-worker",
-    "push"
+    "push",
+    "platinum"
   ],
   "license": "BSD",
   "private": true,
