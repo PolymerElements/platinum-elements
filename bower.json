@@ -14,7 +14,7 @@
   "license": "BSD",
   "private": true,
   "dependencies": {
-    "service-worker": "PolymerElements/service-worker#0.8-preview",
+    "service-worker": "PolymerElements/platinum-sw#0.8-preview",
     "push-notification-manager": "PolymerElements/push-notification-manager#0.8-preview"
   }
 }
