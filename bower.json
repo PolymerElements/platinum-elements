@@ -13,7 +13,6 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "private": true,
   "dependencies": {
-    "platinum-sw": "PolymerElements/platinum-sw#~0.9.0",
-    "push-notification-manager": "PolymerElements/push-notification-manager#~0.9.1"
+    "platinum-sw": "PolymerElements/platinum-sw#~0.9.0"
   }
 }
