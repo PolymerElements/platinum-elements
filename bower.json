@@ -13,7 +13,7 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "private": true,
   "dependencies": {
-    "platinum-sw": "PolymerElements/platinum-sw#~1.0.0",
+    "platinum-sw": "PolymerElements/platinum-sw#~1.0.1",
     "platinum-push-messaging": "PolymerElements/platinum-push-messaging#~1.0.0"
   }
 }
