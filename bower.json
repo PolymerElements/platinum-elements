@@ -2,7 +2,6 @@
   "name": "platinum-elements",
   "homepage": "https://github.com/PolymerElements/platinum-elements",
   "description": "Elements to turn your web page into a true webapp, with push, offline, and more.",
-  "main": "service-worker-elements.html",
   "keywords": [
     "service",
     "worker",
