@@ -1,0 +1,30 @@
+{
+  "name": "@polymer/platinum-elements",
+  "flat": true,
+  "version": "3.0.0-pre.4",
+  "description": "Elements to turn your web page into a true webapp, with push, offline, bluetooth and more.",
+  "keywords": [
+    "element-collection",
+    "service",
+    "worker",
+    "service-worker",
+    "push",
+    "bluetooth",
+    "platinum"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/PolymerElements/platinum-elements",
+  "dependencies": {
+    "@polymer/platinum-bluetooth": "^3.0.0-pre.4",
+    "@polymer/platinum-https-redirect": "^3.0.0-pre.4",
+    "@polymer/platinum-push-messaging": "^3.0.0-pre.4",
+    "@polymer/platinum-sw": "^3.0.0-pre.4"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "inherits": "2.0.3",
+    "samsam": "1.1.3",
+    "supports-color": "3.1.2",
+    "type-detect": "1.0.0"
+  }
+}
